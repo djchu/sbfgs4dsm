@@ -1,6 +1,6 @@
 ## Implementation for our AAAI-23 paper “Structured BFGS Method for Optimal Doubly Stochastic Matrix Approximation".
 
-Our algorithm is implemented by Dejun Chu. If you have any questions or comments, please feel free to contact me (email: djun.chu@gmail.com).
+This is a MATLAB implementation by Dejun Chu. If you have any questions or comments, please feel free to contact me (email: djun.chu@gmail.com).
 
 If you find this code useful in your research, please consider citing:
 
